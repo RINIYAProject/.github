@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/753743737901023242/1075359964517896192/github-header-image1.png" alt="Banner" />
-    <a href="https://discord.com/users/382918201241108481/"><img src="https://img.shields.io/badge/Discord-5764F4?&style=flat-square&logo=Discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://discord.gg/Dc5jmZAtG3"><img src="https://img.shields.io/badge/Discord-5764F4?&style=flat-square&logo=Discord&logoColor=white" alt="Discord" /></a>
     <a href="https://ko-fi.com/vakea"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?&style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
     <a href="mailto:farfy.dev@gmail.com"><img src="https://img.shields.io/badge/Email-181717.svg?style=flat-square&logo=GMail&logoColor=white" alt="Mail" /></a>
     <a href="https://ghidorah.uk/"><img src="https://img.shields.io/badge/Website-181717?&style=flat-square&logo=Slashdot&logoColor=white" alt="Website" /></a>
