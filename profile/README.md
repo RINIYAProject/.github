@@ -6,28 +6,17 @@
     <a href="https://www.riniya.uk"><img src="https://img.shields.io/badge/Website-181717?&style=flat-square&logo=Slashdot&logoColor=white" alt="Website" /></a>
 </p>
   
-Hello, welcome to the RiniyaProject organization! This organization is for RINIYA. What is RNIYA? 
-Well, RINIYA is a bot for the furry and open-source community. 
+Hello, welcome to the RiniyaProject! This organization is for RINIYA. What is RINIYA? 
+RINIYA is a bot for the furry and open-source community. 
 This bot contains many commands and features that can help communities build their own server.
 
-#### The main feature are:
-1. Verification system
-2. Role self-management with selection menus.
-3. Fursona system
-4. Level and Economy 
-5. Moderation system
-6. System for linking Minecraft servers and receiving information from them.
-7. Anti raid system
-8. Blacklist & Blocklist system
-9. Alert when a user is flagged
-
-#### Why the project is still unfinished? 
+#### Why is the project still unfinished? 
 The project is still in progress, so I feel free to allow anyone to make pull requests if necessary. 
-This is an open-source project and help is always welcome ;)
+It's an open-source project and help is always welcome ;)
 
 #### Is this project free?
 Yes, this project is free to use, but you can't use it for commercial purposes.
-If you want a bot for commercial use, you can contact me and I'll be happy to estimate you a price. 
+If you want a bot for commercial use, you can contact me and I'll be happy to give you a quote. 
 But RINIYA remains free and open-source.
 
 #### Tools & languages used in the projects:
